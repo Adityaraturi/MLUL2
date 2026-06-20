@@ -1,6 +1,6 @@
 # MLUL2
 
-Repository scaffold for MLUL2 recommendation and anomaly detection assignment.
+Repository scaffold for the MLUL2 assignment covering recommendation systems and anomaly detection.
 
 ## Project Structure
 

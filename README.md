@@ -5,7 +5,7 @@ Repository scaffold for MLUL2 recommendation and anomaly detection assignment.
 ## Project Structure
 
 ```
-Did you Forget/
+MLUL2/
 │
 ├── data/
 │   ├── all_except_last_orders.csv
@@ -13,7 +13,7 @@ Did you Forget/
 │   └── company_performance.csv
 │
 ├── submissions/
-│   └── GRn_rec_5_sets.csv
+│   └── GR_n_rec_5_sets.csv
 │
 ├── GR_n_MLUL2_Recsys.ipynb
 ├── GR_n_MLUL2_Anomalies.ipynb

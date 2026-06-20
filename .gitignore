@@ -1,0 +1,19 @@
+# Python/Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Keep generated deliverables out by default
+submissions/*.csv
+report/*.pdf
+Assignment_Submission_Form.pdf
+
+# Keep shared template deliverables tracked
+!submissions/GRn_rec_5_sets.csv
+!report/Group-nn_report.pdf
+!Assignment_Submission_Form.pdf
